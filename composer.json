@@ -1,0 +1,17 @@
+{
+  "name": "lukasfischer/openinbound-contao",
+  "description": "OpenInbound module for Contao",
+  "type": "project",
+  "require-dev": {
+    "openinbound/openinbound-api": "dev-master"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lukasfischer",
+      "email": "lf@netnode.ch"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
